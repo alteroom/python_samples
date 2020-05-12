@@ -32,3 +32,10 @@ wheels/
 .venv
 venv/
 ENV/
+
+# large files
+*.avi
+*.mp4
+coco.names
+yolov3.cfg
+yolov3.weights
