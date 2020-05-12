@@ -1,0 +1,16 @@
+Установить dlib и face-recognition
+
+Установка dlib 2 варианта:
+
+1. Установка в виртуальной машине
+1.1. Virtual box - виртуальная машина
+1.2. Ubuntu 16 или 18 - скачать настроенный образ 
+1.3. Установить Python, IDE, и все зависимости opencv, numpy ...
+1.4. Установить face-recognition 
+https://pypi.org/project/face-recognition/
+
+2. Скомпилировать dlib под виндовс вручную.
+https://github.com/ageitgey/face_recognition/issues/175
+
+
+
